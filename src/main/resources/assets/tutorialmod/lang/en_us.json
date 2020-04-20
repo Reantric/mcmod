@@ -1,0 +1,14 @@
+{
+"item.tutorialmod.bendy": "Bendy",
+
+"item.tutorialmod.bendy_sword": "Bendite Sword",
+  "item.tutorialmod.bendy_pick": "Bendite Pickaxe",
+  "block.tutorialmod.bendite_block": "Bendite Block",
+  "item.tutorialmod.bendy_helmet" : "Bandy's Helmet",
+  "item.tutorialmod.bendy_chestplate" : "Bandy's Chestplate",
+  "item.tutorialmod.bendy_leggings" : "Bandy's Leggings",
+  "item.tutorialmod.bendy_boots" : "Bandy's Boots",
+  "block.tutorialmod.bendite_ore": "Bendite Ore",
+
+  "itemGroup.bruhbandy": "Bendite Equip"
+}
